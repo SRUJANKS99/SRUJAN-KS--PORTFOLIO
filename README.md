@@ -48,12 +48,6 @@ Edit
 
 ---
 
-## 📷 Preview
-
-![Portfolio Preview](https://srujan-ks-portfolio-be4r.vercel.app/og-image.jpg)  
-*(Optional: Replace with actual screenshot or remove if not needed)*
-
----
 
 ## 🧑‍💻 Author
 
