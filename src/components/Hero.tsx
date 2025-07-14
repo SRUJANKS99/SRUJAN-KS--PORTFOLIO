@@ -42,7 +42,7 @@ const Hero = () => {
             </div>
             <div>
               <h4 className="text-white font-semibold">Download Resume</h4>
-              <p className="text-gray-400 text-sm">Save PDF to your device</p>
+              <p className="text-gray-400 text-sm">Save PDF/doc to your device</p>
             </div>
           </a>
           
