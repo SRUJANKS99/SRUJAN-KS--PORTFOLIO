@@ -138,7 +138,7 @@ const Hero = () => {
           {/* Enhanced social links */}
           <div className="flex flex-wrap justify-center gap-4 mb-12">
             <a
-              href="https://github.com"
+              href="https://github.com/SRUJANKS99"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 px-8 py-4 bg-dark-card/80 backdrop-blur-md border border-neon-blue/30 rounded-xl hover:border-neon-blue hover:bg-neon-blue/10 transition-all duration-300 group hover:transform hover:scale-105 hover:shadow-lg hover:shadow-neon-blue/25"
@@ -147,7 +147,7 @@ const Hero = () => {
               <span className="font-semibold group-hover:text-neon-blue transition-colors">GitHub</span>
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/ks-srujan-gowda-21ab3b2a3/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 px-8 py-4 bg-dark-card/80 backdrop-blur-md border border-neon-cyan/30 rounded-xl hover:border-neon-cyan hover:bg-neon-cyan/10 transition-all duration-300 group hover:transform hover:scale-105 hover:shadow-lg hover:shadow-neon-cyan/25"
